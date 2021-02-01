@@ -1,5 +1,5 @@
 import json
-import requests
+import merda
 import teste
 
 print(f"teste")
