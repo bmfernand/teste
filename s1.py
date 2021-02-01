@@ -1,5 +1,5 @@
 import json
-import merda
 import teste
+import ttt
 
 print(f"teste")
